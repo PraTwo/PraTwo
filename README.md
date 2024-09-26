@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PraTwo
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 
 
 <!---
